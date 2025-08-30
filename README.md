@@ -8,7 +8,7 @@
 - 🌱 Learning **Advanced Analytics & BI**
 - 👯 Open to collaborate on **Data Analysis & Visualization**
 - 💬 Ask me about **Python, Pandas, Data Cleaning, Visualization**
-- 📧 Reach me: **saifeeraza350@email.com**
+- 📧 Reach me: **saifeeraza350@gmail.com**
 
 
 <!-- Right-side image -->
@@ -17,7 +17,7 @@
 ---
 
 ## 🌐 My Online Profiles
-[![LinkedIn](https://www.linkedin.com/in/saifee-raza01/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifee-raza01/)
 
 ---
 

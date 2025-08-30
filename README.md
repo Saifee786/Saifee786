@@ -17,7 +17,7 @@
 ---
 
 ## 🌐 My Online Profiles
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn](https://www.linkedin.com/in/saifee-raza01/)
 
 ---
 

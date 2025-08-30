@@ -12,7 +12,7 @@
 
 
 <!-- Right-side image -->
-<img align="right" alt="Coding" width="350" src="assets/coding.gif" />
+<img align="right" alt="Coding" width="350" src="https://img.freepik.com/premium-vector/data-visualization-vector-illustration_951778-89953.jpg" />
 
 ---
 
